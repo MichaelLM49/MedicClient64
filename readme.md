@@ -1,4 +1,4 @@
-# This repository contains the file necessary to run the demo version of the free Medic Nuclear Medicine Image Processing and Documentation system.
+# This repository contains the files necessary to run the demo version of the free Medic Nuclear Medicine Image Processing and Documentation system.
 > Download the .zip file and after unpack copy the files and directories to the c:\medic directory.
 >
 > Open a command window (you must have administrative privileges). Goto the c:\medic  
